@@ -1,4 +1,6 @@
-# ID Card generator
+# Dynamic ID Card generator with Qrcode
+
+![](https://graspcoding.com/wp-content/uploads/2020/09/Tech-Tutor-File-2-768x427.png)
 
 ## SHORT INTRODUCTION
 
